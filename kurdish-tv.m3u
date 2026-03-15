@@ -23,7 +23,7 @@ https://5a3ed7a72ed4b.streamlock.net/zagrostv/SMIL:myStream.smil/playlist.m3u8
 https://live.channel8.com/Channel8-Kurdish/index.fmp4.m3u8
 #EXTINF:-1 tvg-id="PayamTV.iq@SD" group-title="Kurdish General",Payam TV (720p)
 https://media2.streambrothers.com:1936/8218/8218/playlist.m3u8
-#EXTINF:-1 tvg-id="KurdMaxSorani.iq@SD" group-title="Kurdish Entertainment",KurdMax Sorani (1080p)
+#EXTINF:-1 tvg-id="KurdMaxKurmanji.iq@SD" group-title="Kurdish Entertainment",KurdMax Kurmanji (1080p)
 https://6476e46b58f91.streamlock.net/liveTrans/KURDS2211/playlist.m3u8
 #EXTINF:-1 tvg-id="KurdMaxShow.iq@SD" group-title="Kurdish Entertainment",KurdMax Show (720p)
 https://6476e46b58f91.streamlock.net/liveTrans/SHOWS123/playlist.m3u8
