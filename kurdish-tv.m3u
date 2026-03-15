@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="AvaMedia.iq@SD" group-title="Kurdish Entertainment",Ava TV (1080p)
+https://ava1.store/upload/ava.m3u8
 #EXTINF:-1 tvg-id="RudawTV.iq@SD" group-title="Kurdish News",Rudaw TV (1080p)
 https://live.rudaw.net/hls/rudaw-tv/master.m3u8
 #EXTINF:-1 tvg-id="Kurdistan24.iq@SD" group-title="Kurdish News",Kurdistan 24 (720p)
