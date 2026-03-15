@@ -1,11 +1,11 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="RudawTV.iq@SD" group-title="Kurdish News",Rudaw TV (1080p)
-https://svs.itworkscdn.net/rudawlive/rudawlive.smil/playlist.m3u8
+https://live.rudaw.net/hls/rudaw-tv/master.m3u8
 #EXTINF:-1 tvg-id="Kurdistan24.iq@SD" group-title="Kurdish News",Kurdistan 24 (720p)
 https://d1x82nydcxndze.cloudfront.net/live/index.m3u8
 #EXTINF:-1 tvg-id="KurdsatNews.iq@SD" group-title="Kurdish News",Kurdsat News (1080p)
 https://hlspackager.akamaized.net/live/DB/KURDSAT_NEWS/HLS/KURDSAT_NEWS.m3u8
-#EXTINF:-1 tvg-id="NRTTV.iq@SD" group-title="Kurdish News",NRT TV (720p)
+#EXTINF:-1 tvg-id="NRTTV.iq@SD" group-title="Kurdish News",NRT TV (720p) [May be offline]
 https://media.streambrothers.com:1936/8226/8226/playlist.m3u8
 #EXTINF:-1 tvg-id="INews.iq@SD" group-title="Kurdish News",iNEWS TV (1080p)
 https://live.i-news.tv/hls/stream.m3u8
@@ -13,8 +13,6 @@ https://live.i-news.tv/hls/stream.m3u8
 https://5a3ed7a72ed4b.streamlock.net/live/SMIL:myStream.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Kurdsat.iq@SD" group-title="Kurdish General",Kurdsat (1080p)
 https://iko-live.akamaized.net/KurdsatTV/master.m3u8
-#EXTINF:-1 tvg-id="Kurdsat.iq@SD" group-title="Kurdish General",Kurdsat (Backup)
-http://trn03.bozztv.com/gin-kurdsat/index.m3u8
 #EXTINF:-1 tvg-id="WaarTV.iq@SD" group-title="Kurdish General",Waar TV (1080p)
 https://live.kwikmotion.com/waarmedialive/waarmedia.smil/waarmediapublish/waarmedia_source/chunks.m3u8
 #EXTINF:-1 tvg-id="ZagrosTV.iq@SD" group-title="Kurdish General",Zagros TV (720p)
@@ -45,8 +43,7 @@ https://avr.host247.net/live/FarmodaTV/playlist.m3u8
 https://avr.host247.net/live/AvarTv/playlist.m3u8
 #EXTINF:-1 tvg-id="EmanTv.iq@HD" group-title="Kurdish Religious",EmanTv (1080p)
 https://avr.host247.net/live/emantv/playlist.m3u8
-#EXTINF:-1 tvg-id="NUBARPlusPlus.iq@SD" group-title="Kurdish General",NUBAR Plus TV (720p)
-http://stream.nubar.tv:1935/private/NUBARPlus/playlist.m3u8
+
 #EXTINF:-1 tvg-id="ShamsTV.iq@SD" group-title="Iraqi",Shams TV (1080p)
 https://stream.shams.tv/hls/stream.m3u8
 #EXTINF:-1 tvg-id="UTV.iq@SD" group-title="Iraqi",UTV (1080p)
